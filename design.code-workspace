@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "design",
+			"path": "../../Users/Lenovo/Downloads/interactive-rating-component-main/interactive-rating-component-main/design"
+		},
+		{
+			"name": "images",
+			"path": "../../Users/Lenovo/Downloads/interactive-rating-component-main/interactive-rating-component-main/images"
+		},
+		{
+			"name": "my-sixth-project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-sixth-project"
+	}
+}
